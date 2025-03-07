@@ -3,7 +3,7 @@
 
 ### 🌟 Full Stack Developer | CodeIgniter Enthusiast 🌟
 
-I am a passionate Full Stack Developer with a proven track record of creating high-performance web applications since 2018. My focus is on delivering clean code, scalable solutions, and user-friendly experiences.
+I am a Full Stack Developer focused on delivering clean code, scalable solutions, and user-friendly experiences
 
 ## Skills & Expertise:
 - **Backend Development** using **CodeIgniter**
